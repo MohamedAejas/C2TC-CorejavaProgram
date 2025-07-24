@@ -1,6 +1,7 @@
-package assignment2;
+package Assignment2;
+
 public class Student {
-	Student() {
+    public Student() {
         System.out.println("Student object is created");
     }
 }
